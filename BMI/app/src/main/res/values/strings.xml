@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="enter_your_weight">Enter your weight       (kg)</string>
+    <string name="enter_your_height">Enter your height       (cm)</string>
+    <string name="result">0</string>
+    <string name="button">Calculate BMI</string>
+    <string name="button1">button1</string>
+    <string name="button_2">button 2</string>
+    <string name="button_3">button 3</string>
+    <string name="button_4">button 4</string>
+    <string name="move_to_new_activity">Move to new activity</string>
+    <string name="back_to_activity_1">Back to activity 1</string>
+</resources>
